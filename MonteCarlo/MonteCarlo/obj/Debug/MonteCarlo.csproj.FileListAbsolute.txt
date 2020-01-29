@@ -1,0 +1,9 @@
+C:\Users\BLESSING\source\repos\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\BLESSING\source\repos\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\BLESSING\source\repos\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\BLESSING\source\repos\MonteCarlo\MonteCarlo\bin\Debug\BLL.dll
+C:\Users\BLESSING\source\repos\MonteCarlo\MonteCarlo\bin\Debug\BLL.pdb
+C:\Users\BLESSING\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\BLESSING\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.CopyComplete
+C:\Users\BLESSING\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\BLESSING\source\repos\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
